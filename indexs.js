@@ -1,3 +1,12 @@
+
+function fn2(){
+   alter("冲突吧")
+}
+
+function fn3(){
+   console.log("好的")
+}
+
 function fn(){
    console.log( 'hahhhhahhahahah ')
 }
