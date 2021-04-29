@@ -1,3 +1,6 @@
-console.log('版本四')
-console.log("分支内容一")
-console.log('分支内容二')
+var arr =[1,2,3,4,4,]
+var obj ={ 
+    name:"laowu",
+    sex :'nv',
+    age :12
+}
